@@ -9,7 +9,7 @@ HoloHack Building Management System.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 HoloHack Building Management System\App.cs: 4427CD7C33A29B626F5CE5618D383542
-HoloHack Building Management System\HoloHack Building Management System.csproj: DB7726512AAEAC9B03913977CBAE676E
+HoloHack Building Management System\HoloHack Building Management System.csproj: F0E06DEED846D6308E2E4E2B423F55F1
 HoloHack Building Management System\HoloHack Building Management System.csproj.user: modified
 HoloHack Building Management System\Package.appxmanifest: 0BD42FB2FF429110CCD1799A7034D107
 HoloHack Building Management System\project.json: 1D02BC64BAC0D041019673A1C4C51737
